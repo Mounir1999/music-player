@@ -1,0 +1,22 @@
+# Node modules
+/node_modules
+
+# Logs
+*.log
+
+# Build output
+/build
+/dist
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Vscode settings (if you use VSCode)
+.vscode/
+
+# Tailwind CSS output
+/public/tailwind.css
